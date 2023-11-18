@@ -1,3 +1,5 @@
+library(cepR)
+
 #Exemplo de busca de cidades por estado
 busca_cidades(estado = "MG", token = "Adquirir em https://cepaberto.com")
 
